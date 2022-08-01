@@ -110,4 +110,4 @@ Country = "INDIA"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![JATIN DALAL Git Stats](https://github-readme-stats.vercel.app/api?username=The-BrotherHood-Council&include_all_commits=true&count_private=true&theme=highcontrast)
+![BROTHERHOOD COUNCIL Git Stats](https://github-readme-stats.vercel.app/api?username=The-BrotherHood-Council&include_all_commits=true&count_private=true&theme=highcontrast)
